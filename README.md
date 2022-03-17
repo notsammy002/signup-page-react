@@ -6,6 +6,10 @@
 - The signup page is create from the form and input
 - This site use only local storage, therfore it cannot save any data (working on it)
 
+## Live Demo
+ https://signup-page-masai.netlify.app/
+
+
 ## Technology Used
 
  - React 
